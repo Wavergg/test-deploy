@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'webapp-deployslots'
         slot-name: 'github-test'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1585817c20664eb8b875c139e2f067a2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_36b1e71d7a1642608e0815db67395049 }}
         package: .
